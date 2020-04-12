@@ -1,1 +1,1 @@
-# C-Sharp-Konsol-ekran-na-ekiller-izdirme-ve-hareket-
+# C-Sharp-Konsol-ekran-na-ekiller-izdirme-ve hareket
