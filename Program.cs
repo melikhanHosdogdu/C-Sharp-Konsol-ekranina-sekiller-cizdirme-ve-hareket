@@ -1,13 +1,4 @@
-﻿/****************************************************************************
-**					     SAKARYA ONOVERSITESI
-**				    BILGISAYAR MUHENDISLIGI BOLUMU
-**				      NESNEYE DAYALI PROGRAMLAMA 
-**				
-**				OGRENCI ISMI.....:Melikhan Muhammed
-**				OGRENCI SOYISMI..:HOŞDOĞDU
-**				OGRENCI NUMARASI.:G 161210039
-**				DERS GRUBU…………………:2-B
-****************************************************************************/
+//author Melikhan Hoşdoğdu
 
 using System;
 using System.Collections.Generic;
